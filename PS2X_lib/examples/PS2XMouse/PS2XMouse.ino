@@ -1,4 +1,4 @@
-#include <PS2X_lib.h>
+#include <PS2X_lib_fork.h>
 
 PS2X ps2x; // create PS2 Controller Class
 
