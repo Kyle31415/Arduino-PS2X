@@ -57,8 +57,8 @@
 *	Reorganized directory so examples show up in Arduino IDE menu
 *    1.8
 *	Added Arduino 1.0 compatibility. 
-*
-*
+*    1.9
+*Changed PS2X_lib to PS2X_lib_fork
 *This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or(at your option) any later version.
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
