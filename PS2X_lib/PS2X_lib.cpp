@@ -1,4 +1,4 @@
-#include "PS2X_lib.h"
+#include "PS2X_lib_fork.h"
 #include <math.h>
 #include <stdio.h>
 #include <stdint.h>
